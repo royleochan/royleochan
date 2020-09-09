@@ -30,16 +30,14 @@
 <details>
   <summary>:zap: Github Stats</summary>
   
-<!--START_SECTION:stats-->
   <img align="left" alt="Roy's Github Stats" src="https://github-readme-stats.royleochan.vercel.app/api?username=royleochan&show_icons=true&hide_border=true&count_private=true" />
-<!--END_SECTION:stats-->  
-
+  
 </details>
 
 <details>
   <summary>:zap: Top Languages</summary>
   
-    <img align="left" alt="Roy's Language Stats" src="https://github-readme-stats.royleochan.vercel.app/api/top-langs/?username=royleochan&layout=compact" />
+  <img align="left" alt="Roy's Language Stats" src="https://github-readme-stats.codestackr.vercel.approyleochan.vercel.app/api/top-langs/?username=royleochan&layout=compact" />
 
 </details>
 
