@@ -29,7 +29,7 @@
 
 <details>
   <summary>:zap: Top Languages</summary>
-  <br />
+
 [![Top Langs](https://github-readme-stats.royleochan.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/royleochan/github-readme-stats)
 
 </details>
