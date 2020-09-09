@@ -28,18 +28,19 @@
 ---
 
 <details>
+  <summary>:zap: Top Languages</summary>
+  
+[![Top Langs](https://github-readme-stats.royleochan.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/royleochan/github-readme-stats)
+
+</details>
+
+<details>
   <summary>:zap: Github Stats</summary>
   
   <img align="left" alt="Roy's Github Stats" src="https://github-readme-stats.royleochan.vercel.app/api?username=royleochan&show_icons=true&hide_border=true&count_private=true" />
   
 </details>
 
-<details>
-  <summary>:zap: Top Languages</summary>
-  
-  <img align="left" alt="Roy's Language Stats" src="https://github-readme-stats.codestackr.vercel.approyleochan.vercel.app/api/top-langs/?username=royleochan&layout=compact" />
-
-</details>
 
 [website]: https://royleochan.netlify.app/
 [linkedin]: https://www.linkedin.com/in/royleochan
