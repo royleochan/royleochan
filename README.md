@@ -27,8 +27,6 @@
 
 ---
 
-<br />
-
 <details>
   <summary>:zap: Github Stats</summary>
   
@@ -39,11 +37,9 @@
 </details>
 
 <details>
-  <summary>:zap: Top Language</summary>
+  <summary>:zap: Top Languages</summary>
   
-<!--START_SECTION:stats-->
-  <img align="left" alt="Roy's Language Stats" src="https://github-readme-stats.royleochan.vercel.app/api/top-langs/?username=royleochan&layout=compact" />
-<!--END_SECTION:stats-->  
+    <img align="left" alt="Roy's Language Stats" src="https://github-readme-stats.royleochan.vercel.app/api/top-langs/?username=royleochan&layout=compact" />
 
 </details>
 
