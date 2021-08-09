@@ -1,6 +1,6 @@
-### I'm a year 2 student at the National University of Singapore 
+### I'm a year 3 student at the National University of Singapore 
 
-- Studying a double degree in computer science and business administration
+- Studying computer science with a minor in business management.
 
 ### Connect with me:
 
@@ -41,6 +41,5 @@
 </details>
 
 
-[website]: https://royleochan.netlify.app/
 [linkedin]: https://www.linkedin.com/in/royleochan
 [instagram]: https://www.instagram.com/leoroyy/
