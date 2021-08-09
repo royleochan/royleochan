@@ -4,7 +4,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="roy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -25,21 +24,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Top Languages</summary>
-
-[![Top Langs](https://github-readme-stats.royleochan.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/royleochan/github-readme-stats)
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  
-  <img align="left" alt="Roy's Github Stats" src="https://github-readme-stats.royleochan.vercel.app/api?username=royleochan&show_icons=true&hide_border=true&count_private=true" />
-  
-</details>
-
 
 [linkedin]: https://www.linkedin.com/in/royleochan
 [instagram]: https://www.instagram.com/leoroyy/
