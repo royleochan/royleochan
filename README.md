@@ -1,6 +1,6 @@
 ### I'm a final year student at the National University of Singapore 
 
-- Studying computer science with a minor in business management.
+- Studying computer science.
 
 ### Connect with me:
 
